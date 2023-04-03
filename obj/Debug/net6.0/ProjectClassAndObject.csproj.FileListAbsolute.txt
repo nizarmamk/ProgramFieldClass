@@ -1,0 +1,15 @@
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\bin\Debug\net6.0\ProjectClassAndObject.exe
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\bin\Debug\net6.0\ProjectClassAndObject.deps.json
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\bin\Debug\net6.0\ProjectClassAndObject.runtimeconfig.json
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\bin\Debug\net6.0\ProjectClassAndObject.dll
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\bin\Debug\net6.0\ProjectClassAndObject.pdb
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.csproj.AssemblyReference.cache
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.AssemblyInfoInputs.cache
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.AssemblyInfo.cs
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.csproj.CoreCompileInputs.cache
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.dll
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\refint\ProjectClassAndObject.dll
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.pdb
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ProjectClassAndObject.genruntimeconfig.cache
+D:\[KULIAH]\Semester 2\3. Pemrograman\Pertemuan 3\Class and Object\ProjectClassAndObject\obj\Debug\net6.0\ref\ProjectClassAndObject.dll
